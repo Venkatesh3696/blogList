@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.list-item {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.name {
+  font-size: 20px;
+}
